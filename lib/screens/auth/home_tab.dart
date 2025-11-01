@@ -62,7 +62,7 @@ class _HomeTabState extends State<HomeTab> {
         backgroundColor: const Color(0xFF1E1E2E),
         elevation: 0,
         title: const Text(
-          'Beranda SoundWorthy',
+          'SoundWorthy',
           style: TextStyle(
             color: Colors.white,
             fontWeight: FontWeight.bold,
